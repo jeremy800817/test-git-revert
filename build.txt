@@ -1,3 +1,4 @@
 new feature
 fix bug
 fix error
+fix error 2
