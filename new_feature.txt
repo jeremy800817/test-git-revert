@@ -2,3 +2,4 @@ new feature
 fix bugs
 fix errors
 fix errors 2
+fix errors 3
